@@ -1,6 +1,6 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 
-<<<<<<< HEAD
+rebase-practiceで変更
 
 
