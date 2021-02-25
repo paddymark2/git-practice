@@ -5,3 +5,4 @@ rebase-conflict用
 rebase pull用
 stash conflict用
 stash練習track済
+satash変更 (2nd)
